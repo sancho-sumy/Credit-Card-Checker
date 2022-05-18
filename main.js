@@ -85,6 +85,7 @@ const idInvalidCardCompanies = (arr) => {
 
 //console.log(mystery1);
 //console.log(validateCred(invalid2));
+
 console.log(findInvalidCards(batch));
  
 console.log(idInvalidCardCompanies(findInvalidCards(batch)));
